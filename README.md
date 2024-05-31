@@ -21,5 +21,5 @@ linguagem de programação GO
 **nstruções necessárias para abrir e executar o projeto**
 - Necessário criar um arquivo .env na raiz do projeto com os dados de usuário e senha, de acordo com o exemplo abaixo.
 
-API_USERNAME=seuusuárioaqui
+API_USERNAME=seuusuárioaqui<br>
 API_PASSWORD=suasenhaaqui
